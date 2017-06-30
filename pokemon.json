@@ -1,0 +1,27 @@
+{
+    "pokemon":[
+        {
+            "name":"Wailmer",
+            "ev-type":"hp",
+            "ev-value":"1",
+            "location":"Poni Wilds"
+        },
+        {
+            "name":"Crabrawler",
+            "ev-type":"attack",
+            "ev-value":"1",
+            "location":"Berry trees"
+        },
+        {
+            "name":"Yungoos",
+            "ev-type":"attack",
+            "ev-value":"1",
+            "location":"Route 2"
+        },
+        {
+            "name":"Yorkleff",
+            "ev-type":"attack",
+            "ev-value":"1",
+        }
+    ]
+}
